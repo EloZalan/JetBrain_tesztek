@@ -1,0 +1,19 @@
+Index: Program.cs
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>namespace GitHubTeszt;\r\n\r\nclass Program\r\n{\r\n    static void Main(string[] args)\r\n    {\r\n        Console.WriteLine(\"Hello, World!\");\r\n    }\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Program.cs b/Program.cs
+--- a/Program.cs	(revision ce899ead0a3ab4f876cb27aa4ffc292865c86eb1)
++++ b/Program.cs	(date 1706562388198)
+@@ -5,5 +5,7 @@
+     static void Main(string[] args)
+     {
+         Console.WriteLine("Hello, World!");
++        Console.WriteLine("Most van egy új branchem :)");
++        Console.WriteLine(5);
+     }
+ }
+\ No newline at end of file
