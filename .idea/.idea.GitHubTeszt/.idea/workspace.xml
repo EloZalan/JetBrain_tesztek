@@ -7,9 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d2ac7d8-c781-4fb1-9408-a1159eea1c14" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-    </list>
+    <list default="true" id="0d2ac7d8-c781-4fb1-9408-a1159eea1c14" name="Changes" comment="akkor most pacek állítólag" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +23,8 @@
     <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock://D:/Jedlik2022-23/jetbrain/GitHubTeszt/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Jedlik2022-23/jetbrain/GitHubTeszt/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://D:/Jedlik2022-23/jetbrain/GitHubTeszt/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://D:/Jedlik2022-23/jetbrain/GitHubTeszt/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -46,7 +46,7 @@
     ".NET Project.GitHubTeszt.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "A__teszt__branch",
+    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -117,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706561837665</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="akkor most pacek állítólag">
+      <option name="closed" value="true" />
+      <created>1706563087379</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706563087379</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +160,7 @@
     <MESSAGE value="teszt1" />
     <MESSAGE value="teszt2" />
     <MESSAGE value="teszt3" />
-    <option name="LAST_COMMIT_MESSAGE" value="teszt3" />
+    <MESSAGE value="akkor most pacek állítólag" />
+    <option name="LAST_COMMIT_MESSAGE" value="akkor most pacek állítólag" />
   </component>
 </project>
